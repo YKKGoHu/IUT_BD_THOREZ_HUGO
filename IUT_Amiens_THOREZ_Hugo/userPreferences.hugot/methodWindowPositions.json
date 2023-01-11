@@ -1,0 +1,194 @@
+{
+	"Sources/Methods/TD_001.4dm": {
+		"left": 268,
+		"top": 202,
+		"width": 1000,
+		"height": 488
+	},
+	"Sources/Methods/TD_002.4dm": {
+		"left": 268,
+		"top": 202,
+		"width": 1000,
+		"height": 488
+	},
+	"Sources/Methods/TD_003.4dm": {
+		"left": 268,
+		"top": 202,
+		"width": 1000,
+		"height": 488
+	},
+	"Sources/Methods/TD_003_2.4dm": {
+		"left": 268,
+		"top": 202,
+		"width": 1000,
+		"height": 488
+	},
+	"Sources/Methods/TD_003_3.4dm": {
+		"left": 268,
+		"top": 202,
+		"width": 1000,
+		"height": 488
+	},
+	"Sources/Methods/TD_004.4dm": {
+		"left": 268,
+		"top": 202,
+		"width": 1000,
+		"height": 488
+	},
+	"Sources/Methods/TD_005.4dm": {
+		"left": 199,
+		"top": 123,
+		"width": 1069,
+		"height": 567
+	},
+	"Sources/Methods/TD_006.4dm": {
+		"left": 199,
+		"top": 123,
+		"width": 1069,
+		"height": 567
+	},
+	"Sources/Methods/TD_007.4dm": {
+		"left": 199,
+		"top": 123,
+		"width": 1069,
+		"height": 567
+	},
+	"Sources/Methods/TD_008.4dm": {
+		"left": 199,
+		"top": 123,
+		"width": 1069,
+		"height": 567
+	},
+	"Sources/Methods/TD_009.4dm": {
+		"left": 199,
+		"top": 123,
+		"width": 1069,
+		"height": 567
+	},
+	"Sources/Methods/TD_010.4dm": {
+		"left": 199,
+		"top": 123,
+		"width": 1069,
+		"height": 567
+	},
+	"Sources/Methods/TD_011.4dm": {
+		"left": 199,
+		"top": 123,
+		"width": 1069,
+		"height": 567
+	},
+	"Sources/Forms/LEGACY_001/ObjectMethods/List Box.4dm": {
+		"left": 7,
+		"top": 109,
+		"width": 1291,
+		"height": 446
+	},
+	"Sources/Forms/LEGACY_001/ObjectMethods/Bouton.4dm": {
+		"left": 0,
+		"top": 108,
+		"width": 1536,
+		"height": 714
+	},
+	"Sources/Forms/LEGACY_001/ObjectMethods/Bouton1.4dm": {
+		"left": 0,
+		"top": 79,
+		"width": 1536,
+		"height": 714
+	},
+	"Sources/Forms/LEGACY_001/ObjectMethods/Bouton2.4dm": {
+		"left": 0,
+		"top": 79,
+		"width": 1536,
+		"height": 714
+	},
+	"Sources/Methods/ui_loadEvenements.4dm": {
+		"left": 0,
+		"top": 79,
+		"width": 1536,
+		"height": 714
+	},
+	"Sources/Methods/lanceur.4dm": {
+		"left": 58,
+		"top": 160,
+		"width": 1291,
+		"height": 446
+	},
+	"Sources/Methods/dialogue.4dm": {
+		"left": 0,
+		"top": 79,
+		"width": 1536,
+		"height": 714
+	},
+	"Sources/Methods/ui_displayEvenements.4dm": {
+		"left": 0,
+		"top": 79,
+		"width": 1536,
+		"height": 714
+	},
+	"Sources/Forms/LEGACY_001/ObjectMethods/btn_sup.4dm": {
+		"left": 0,
+		"top": 79,
+		"width": 1536,
+		"height": 714
+	},
+	"Sources/Forms/LEGACY_001/ObjectMethods/btn_enr.4dm": {
+		"left": 0,
+		"top": 79,
+		"width": 1536,
+		"height": 714
+	},
+	"Sources/Forms/ORDA_001/ObjectMethods/List Box.4dm": {
+		"left": 0,
+		"top": 108,
+		"width": 1536,
+		"height": 714
+	},
+	"Sources/Forms/ORDA_001/ObjectMethods/Bouton.4dm": {
+		"left": 0,
+		"top": 79,
+		"width": 1536,
+		"height": 714
+	},
+	"Sources/Forms/ORDA_001/ObjectMethods/Bouton1.4dm": {
+		"left": 0,
+		"top": 79,
+		"width": 1536,
+		"height": 714
+	},
+	"Sources/Forms/ORDA_001/ObjectMethods/Bouton2.4dm": {
+		"left": 0,
+		"top": 79,
+		"width": 1536,
+		"height": 714
+	},
+	"Sources/Methods/ui_loadUtilisateur.4dm": {
+		"left": 0,
+		"top": 79,
+		"width": 1536,
+		"height": 714
+	},
+	"Sources/Forms/ORDA_001/ObjectMethods/Bouton3.4dm": {
+		"left": 0,
+		"top": 79,
+		"width": 1536,
+		"height": 714
+	},
+	"Sources/Methods/lanceurUtilisateur.4dm": {
+		"left": 0,
+		"top": 79,
+		"width": 1536,
+		"height": 714
+	},
+	"Sources/Methods/dialogue_utilisateur.4dm": {
+		"left": 0,
+		"top": 79,
+		"width": 1536,
+		"height": 714
+	},
+	"Sources/Forms/ORDA_001/ObjectMethods/Bouton4.4dm": {
+		"left": 0,
+		"top": 79,
+		"width": 1536,
+		"height": 714
+	}
+}

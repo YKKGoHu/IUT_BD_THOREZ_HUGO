@@ -1,0 +1,41 @@
+{
+	"editors": [
+		{
+			"type": "method",
+			"id": 2147483628,
+			"codeDescriptor": {
+				"type": 2,
+				"formName": "ORDA_001",
+				"objectName": "Bouton",
+				"methodPath": "/SOURCES/Forms/ORDA_001/ObjectMethods/Bouton.4dm"
+			}
+		},
+		{
+			"type": "form",
+			"id": 220,
+			"formName": "ORDA_001"
+		},
+		{
+			"type": "explorer"
+		},
+		{
+			"type": "structure"
+		},
+		{
+			"type": "toolbox"
+		},
+		{
+			"type": "method",
+			"id": 2147483646,
+			"codeDescriptor": {
+				"type": 1,
+				"methodName": "lanceur"
+			}
+		},
+		{
+			"type": "form",
+			"id": 219,
+			"formName": "LEGACY_001"
+		}
+	]
+}
